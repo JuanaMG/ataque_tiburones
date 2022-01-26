@@ -4,10 +4,12 @@
 <img src= "_105225133_051701037.jpg">
 
 &nbsp;
-### Datos
+### Objetivo
 -----------
 
-#### Este proyecto está basado en un dataset sobre ataques de tiburones. En él se detallan, entre otros datos, los diferentes tipos de ataques, en que año ha ocurrido, países donde se ha producido, el sexo de las personas atacadas, etc.
+Este proyecto está basado en un dataset sobre ataques de tiburones. En él se detallan, entre otros datos, los diferentes tipos de ataques, en que año ha ocurrido, países donde se ha producido, el sexo de las personas atacadas, etc.
+
+Se ha añadido un mapa en el final de las visualizaciones con el conjunto de los cinco países en función del número de ataques que han sufrido.
 
 &nbsp;
 
