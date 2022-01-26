@@ -36,6 +36,7 @@ Los archivos que se encuentran en el proyecto son:
 - Cleaning_sharks. Se encuentra toda la selección de columnas necesarias para el estudio de las hipótesis, así como toda la limpieza de cada una de ellas.
 
 - Visualizations_sharks. En este archivo se pueden ver gráficos y las conclusiones a las hipótesis de una forma visual muy sencilla. 
+    - Para ver todos los gráficos es recomendable usar el siguiente  [link](https://nbviewer.org/github/JuanaMG/ataque_tiburones/blob/main/02_Visualizations_sharks.ipynb)
 
 
 &nbsp;
